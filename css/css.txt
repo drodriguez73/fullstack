@@ -1,0 +1,13 @@
+comentarios
+/* Handle basic element styling */
+	
+
+Shorthand Properties
+Some properties like font, background, padding, border, and margin are called shorthand properties
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Syntax#Shorthand
+
+
+
+
+CSS Gridish: An Open Source 
+https://medium.freecodecamp.org/introducing-css-gridish-helping-teams-to-adapt-css-grid-today-3e031ab222de

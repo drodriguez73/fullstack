@@ -1,0 +1,8 @@
+JavaScript is the default scripting language in HTML5 and in all modern browsers!
+Then, we do not have type="text/javascript"
+
+Start
+https://www.w3schools.com/bootstrap/bootstrap_get_started.asp
+
+Bootstrap Grid System
+https://www.w3schools.com/bootstrap/bootstrap_grid_basic.asp

@@ -1,0 +1,13 @@
+
+
+http://www.tutorialesprogramacionya.com/bootstrap4ya/index.php?inicio=0
+
+
+
+	
+https://www.javacodegeeks.com/2016/05/build-new-web-application-scratch-using-spring-boot-thymeleaf-angularjs-part-2.html
+https://anirudhbhatnagar.com/2016/05/27/build-a-new-web-application-from-scratch-using-spring-boot-thymeleaf-angularjs-part-3/
+
+
+https://www.thymeleaf.org/
+https://bower.io/

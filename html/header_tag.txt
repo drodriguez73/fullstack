@@ -1,0 +1,15 @@
+https://www.w3schools.com/tags/tag_header.asp
+https://html.com/tags/header/
+
+https://www.w3schools.com/tags/tag_footer.asp
+https://html.com/tags/footer/
+
+
+
+header element tag
+	is used to identify content that precedes the primary content and contains website branding, navigation elements, etc
+
+footer element tag 
+	is used to identify the footer of a content and contains authorship, navigational elements, etc
+	
+	

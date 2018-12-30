@@ -1,0 +1,72 @@
+/* https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS */
+
+
+Codigo HTML 
+	<p class="better">This is a paragraph.</p>
+	<p class="better" id="winning">One selector to rule them all!</p>
+	<ul>
+		<li class="first done">Create an HTML document</li>
+		<li class="second done">Create a CSS style sheet</li>
+		<li class="third">Link them all together</li>
+	</ul>
+
+
+CSS rule are the main building blocks 
+	p {
+	  color: red;
+	}
+	
+	"p"             es el selector
+	"color: red;"   es una properties del selector.
+	
+/*
+Concepto:
+	Each property:value pair is called a declaration
+	CSS declarations are put within CSS Declaration Blocks.
+	And finally, CSS declaration blocks are paired with selectors to produce CSS Rulesets or CSS Rules
+	
+	*/
+	
+Selectors
+	Group selectors
+	p, span, li {
+		bla bla bla
+	}
+	
+	
+	ID selector
+	#winning {
+		background-color: red;
+	}	
+	
+	CLASS selector
+	.first {
+		bla bla bla
+	}
+	
+	
+	Chain selectors
+	
+	An element may be matched by several selectors, therefore several rules may set a given property multiple times.
+	
+	
+	
+Precedence
+	!important declaration
+	ID/class selectors
+	Element selectors
+
+Specificity	
+	https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance#Specificity
+	
+, cascade algorithm and inheritance
+
+
+
+Specificity
+
+Source order
+
+
+
+	

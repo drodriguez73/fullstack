@@ -1,0 +1,17 @@
+CSS rules are one type of so-called CSS statements.
+The other types are At-rules that start with an at sign (@), followed by an identifier to say what kind of rule it is.
+	@charset
+	@import
+	@media
+	@document
+	@font-face
+
+Nested statements 
+Example, applies the nested rule when the page's width exceeds 800 pixels.
+	@media (min-width: 801px) {
+	  body {
+		 margin: 0 auto;
+		 width: 800px;
+	  }
+	}
+	

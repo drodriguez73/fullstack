@@ -1,0 +1,6 @@
+Defines an image in an HTML page.
+Has two required attributes: src and alt.
+
+<img src="smiley.gif" alt="Smiley face" height="42" width="42"> 
+<img src="smiley.gif" width="2343" height="725" alt="banner_web.png"  style="font-size: 0px; left: 0px; top: 0px; position: relative;">
+

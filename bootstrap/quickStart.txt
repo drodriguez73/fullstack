@@ -1,0 +1,14 @@
+QuickStart
+
+Requiered Template
+	https://getbootstrap.com/docs/4.1/getting-started/introduction/
+	
+The <html> and <body> elements page defaults
+	https://getbootstrap.com/docs/4.1/content/reboot/
+
+
+Containers are the most basic layout element in Bootstrap and are required when using our default grid system.
+	https://getbootstrap.com/docs/4.1/layout/overview/
+	
+	
+

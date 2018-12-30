@@ -1,0 +1,37 @@
+25 Herramientas para diseño web que no pueden faltarte
+https://luisforgiariniblog.com/25-herramientas-diseno-web/
+
+Tools for testing your responsive web designs
+Free
+   http://quirktools.com/screenfly/
+   http://www.responsinator.com/
+   http://mobiletest.me/
+   
+   
+Pago
+   http://www.vanamco.com/ghostlab/
+   https://www.browserstack.com/
+   https://crossbrowsertesting.com/
+
+   
+Paleta de Colores HTML
+   https://htmlcolorcodes.com/es/selector-de-color/
+   https://color.hailpixel.com/
+   
+   
+   
+
+HTML formater
+	https://htmlformatter.com/
+	
+	
+JSFiddle
+	https://jsfiddle.net/api/mdn/
+
+CodePen
+	https://codepen.io/pen/
+
+	
+Code formater tool plugin
+	https://prettier.io/
+	
